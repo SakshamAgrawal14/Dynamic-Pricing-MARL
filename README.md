@@ -157,11 +157,3 @@ Alternating PPO Self-Play:
 - PyTorch
 
 ---
-
-## Future Work
-
-- Continuous pricing actions
-- Larger state representations
-- More realistic demand models
-- Three-firm or multi-firm competition
-- True simultaneous deep multi-agent reinforcement learning
